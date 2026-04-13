@@ -19,9 +19,10 @@ The system performs both:
 
 ---
 
-##  Dataset
+##  Dataset:
 
-The model is trained on a custom text corpus (`Training.txt`) which is preprocessed to build vocabulary and language models.
+The model uses a text corpus derived from publicly available NLP datasets such as Wikipedia / news text.
+Source: Kaggle datasets
 
 ###  Data Preprocessing Steps:
 - Lowercasing text  
