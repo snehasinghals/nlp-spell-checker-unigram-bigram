@@ -19,7 +19,7 @@ The system performs both:
 
 ---
 
-##  Dataset:
+## Dataset:
 
 The model uses a text corpus derived from publicly available NLP datasets such as Wikipedia / news text.
 Source: Kaggle datasets
